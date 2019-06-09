@@ -1,5 +1,7 @@
 # MovieMVC
 ASP.NET Core MVC web development with controllers and views. This was the final for my web development course which introduced ASP.NET to me. This application was done following a tutorial.
+
+- Video explaining the app: https://youtu.be/bzGYyP1OC64
  
  - Microsoft Visual Studio 2017 with .NET Core SDK 2.2.
  
